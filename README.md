@@ -1,2 +1,4 @@
 # githubdemo
-git hub demo
+git hub demo 
+this is just A demonstration
+git status
